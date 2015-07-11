@@ -24,8 +24,8 @@ Exploratory Data Analysis Course Project Assigment
 
 *  The assigning of variables class (other than Data and Time) as numeric, "NA"s are introduced by coercion because of "?".
 
-*  Because it is requested to include the code for reading data, each one of the four R plot scripts has this task in common, that is, Lines 1-37 in all four R codes are the same.
+*  Because it is requested to include the code for reading data, each one of the four R plot scripts has this task in common, that is, Lines 1-34 in all four R codes are the same.
 
-*  IT IS NOT REQUESTED to run the code, but if you do so, please note that it may take time both to download and clean the data to make it ready to build the plots. Because Lines 1-37 in all the codes are common - after running a full code for the first time, you may want to shorten the overall time for the other three remaining codes by just running the parts of the code that actually build and save the plot. 
+*  IT IS NOT REQUESTED to run the code, but if you do so, please note that it may take time both to download and clean the data to make it ready to build the plots. Because Lines 1-34 in all the codes are common - after running a full code for the first time, you may want to shorten the overall time for the other three remaining codes by just running the parts of the code that actually build and save the plot. 
 
 ***************************************************
